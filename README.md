@@ -2,7 +2,7 @@
 
 ### You are here now,WELCOME!
 
-![](https://github.com/joelagbo/joelagbo/raw/master/githubbackground.jpg)
+![](https://github.com/joelagbo/joelagbo/raw/master/welcome.jpg)
 
 Here are some ideas to get you started:
 
