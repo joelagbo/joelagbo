@@ -2,7 +2,7 @@
 
 ### You are here now,WELCOME!
 
-<img src='/.githubbackground.jpg>
+![](https://github.com/joelagbo/joelagbo/raw/master/githubbackground.jpg)
 
 Here are some ideas to get you started:
 
